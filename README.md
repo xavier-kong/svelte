@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/making-an-app
+https://svelte.dev/tutorial/reactive-declarations
