@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/reactive-declarations
+https://svelte.dev/tutorial/updating-arrays-and-objects
