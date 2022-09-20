@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/updating-arrays-and-objects
+https://svelte.dev/tutorial/default-values
