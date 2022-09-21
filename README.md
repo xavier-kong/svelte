@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/default-values
+https://svelte.dev/tutorial/if-blocks
