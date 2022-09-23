@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/each-blocks
+https://svelte.dev/tutorial/keyed-each-blocks
