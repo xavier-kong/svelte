@@ -1,1 +1,2 @@
-https://svelte.dev/tutorial/await-blocks
+https://svelte.dev/tutorial/dom-events
+
