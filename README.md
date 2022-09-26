@@ -1,2 +1,1 @@
-https://svelte.dev/tutorial/dom-events
-
+https://svelte.dev/tutorial/event-modifiers
