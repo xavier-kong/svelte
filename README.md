@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/event-modifiers
+https://svelte.dev/tutorial/component-events
