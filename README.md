@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/dom-event-forwarding
+https://svelte.dev/tutorial/text-inputs
