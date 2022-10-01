@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/text-inputs
+https://svelte.dev/tutorial/checkbox-inputs
