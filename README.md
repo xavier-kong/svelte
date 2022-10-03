@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/group-inputs
+https://svelte.dev/tutorial/textarea-inputs
