@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/textarea-inputs
+https://svelte.dev/tutorial/select-bindings
