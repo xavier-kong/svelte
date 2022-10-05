@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/select-bindings
+https://svelte.dev/tutorial/multiple-select-bindings
