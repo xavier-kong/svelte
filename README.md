@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/multiple-select-bindings
+https://svelte.dev/tutorial/contenteditable-bindings
