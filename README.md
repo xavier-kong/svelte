@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/contenteditable-bindings
+https://svelte.dev/tutorial/each-block-bindings
