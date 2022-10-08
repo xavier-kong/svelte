@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/each-block-bindings
+https://svelte.dev/tutorial/media-elements
