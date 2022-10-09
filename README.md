@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/media-elements
+https://svelte.dev/tutorial/dimensions
