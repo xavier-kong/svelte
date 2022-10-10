@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/dimensions
+https://svelte.dev/tutorial/bind-this
