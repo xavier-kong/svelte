@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/bind-this
+https://svelte.dev/tutorial/component-bindings
