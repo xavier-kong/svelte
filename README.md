@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/component-this
+https://svelte.dev/tutorial/onmount
