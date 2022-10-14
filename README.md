@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/onmount
+https://svelte.dev/tutorial/ondestroy
