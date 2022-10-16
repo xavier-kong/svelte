@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/update
+https://svelte.dev/tutorial/tick
