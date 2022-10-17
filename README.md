@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/tick
+https://svelte.dev/tutorial/writable-stores
