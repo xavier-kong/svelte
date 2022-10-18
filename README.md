@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/writable-stores
+https://svelte.dev/tutorial/auto-subscriptions
