@@ -1,1 +1,1 @@
-https://svelte.dev/tutorial/readable-stores
+https://svelte.dev/tutorial/derived-stores
